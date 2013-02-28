@@ -20,7 +20,7 @@
  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
- Donations are welcome!
+ Donations are welcome! or a purchase is appreciated if you are using it commercially
  */
 jQuery.fn.jquerybar = function (settings) {
     var settings = jQuery.extend({
