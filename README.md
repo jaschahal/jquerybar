@@ -5,7 +5,7 @@ A notification bar written in jQuery
 
 <h2>Example</h2>
 
-<code>
+<pre>
 jQuery(window).load(function () {
             jQuery().jquerybar({
                 notificationAreaPosition:'document-top',
@@ -40,7 +40,7 @@ jQuery(window).load(function () {
             })
         })
 		
-</code>
+</pre>
 
 More details http://jquerybar.com or from article hosted on http://jaspreetchahal.org which can be found here
 http://jaspreetchahal.org/jquerybar-a-jquery-notification-bar-plugin
